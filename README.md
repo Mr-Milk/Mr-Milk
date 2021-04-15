@@ -19,8 +19,7 @@ I'm Milk, used to be an experimental biology student, now working on bioinformat
 
 **Tools developed by me**
 
-<a href="https://github.com/Mr-Milk/SpatialTis" alt="SpatialTis"><img height=30 src="images/spatialtis.svg"/></a>
-
+<a href="https://github.com/Mr-Milk/SpatialTis" alt="SpatialTis"><img height=30 src="images/spatialtis.svg"/></a> <a href="https://github.com/Mr-Milk/python-hmr" alt="python-hmr"><img height=30 src="https://github.com/Mr-Milk/python-hmr/raw/main/img/logo.svg"/></a>
 
 
 **The languages I used**
@@ -31,7 +30,7 @@ I'm Milk, used to be an experimental biology student, now working on bioinformat
 
 **Tools or frameworks**
 
-<img height=30 src="images/postgresql.svg"/> <img height=30 src="images/rust-actix.png"/> <img height=30 src="images/svelte.png"/>
+<img height=30 src="images/react.png"/> <img height=30 src="images/svelte.png"/> <img height=30 src="images/postgresql.svg"/> <img height=30 src="images/rust-actix.png"/>
 
 
 
