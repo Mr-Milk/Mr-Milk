@@ -1,20 +1,17 @@
 ### Hey there 👋
 
-I'm Milk, used to be an experimental biology student, now working on bioinformatics.
-
-
+I'm Milk, a bioinformatics.
 
 #### About me
 
-🎒 Working on my Ph.D.
+🎒 Postdoctoral Fellow at Renderio Lab
 
-📦 Developing tools🛠 and methods🔌 for analyzing spatial single-cell data.
+📦 Working with spatial omics data
 
 💬 Contact:
 
 [![Gmail Badge](https://img.shields.io/badge/-zym.zym1220@gmail.com-D44638?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:zym.zym1220@gmail.com)
 [![Linkedln Badge](https://img.shields.io/badge/-Zheng%20Yimin-0077B5?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/%E6%98%93%E6%B0%91-%E9%83%91-562923160/)
-
 
 
 **Tools developed by me**
