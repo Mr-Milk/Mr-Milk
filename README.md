@@ -4,7 +4,7 @@ I'm Milk, a bioinformatics.
 
 #### About me
 
-🎒 Postdoctoral Fellow at Renderio Lab
+🎒 Postdoctoral Fellow at Rendeiro Lab
 
 📦 Working with spatial omics data
 
