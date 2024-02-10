@@ -16,7 +16,7 @@ I'm Milk, a bioinformatics.
 
 **Tools developed by me**
 
-<a href="https://github.com/Mr-Milk/SpatialTis" alt="SpatialTis"><img height=30 src="images/spatialtis.svg"/></a> <a href="https://github.com/Mr-Milk/python-hmr" alt="python-hmr"><img height=30 src="https://github.com/Mr-Milk/python-hmr/raw/main/img/logo.svg"/></a>
+<a href="https://github.com/Mr-Milk/SpatialTis" alt="SpatialTis"><img height=30 src="images/spatialtis.svg"/></a> <a href="https://github.com/Mr-Milk/python-hmr" alt="python-hmr"><img height=30 src="https://github.com/Mr-Milk/python-hmr/raw/main/assets/logo.svg"/></a><a href="https://github.com/Marilea-viz/Marsilea" alt="marsilea"><img height=30 src="https://github.com/Marsilea-viz/marsilea/raw/main/img/logo.svg"/></a>
 
 
 **The languages I used**
